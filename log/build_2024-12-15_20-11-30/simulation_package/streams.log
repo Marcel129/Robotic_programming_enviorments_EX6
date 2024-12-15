@@ -1,0 +1,42 @@
+[0.007s] Invoking command in '/home/marcel/studies/2_sem_mgr/RPE_lab/EX6/ros2_ws/build/simulation_package': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/marcel/studies/2_sem_mgr/RPE_lab/EX5/ros2_ws/install/rms_package:/home/marcel/studies/2_sem_mgr/RPE_lab/EX4/ros2_ws/install/signalPackage:/home/marcel/ros2_ws/install/my_robot_controller:/opt/ros/humble /usr/bin/cmake /home/marcel/studies/2_sem_mgr/RPE_lab/EX6/ros2_ws/src/simulation_package -DCMAKE_INSTALL_PREFIX=/home/marcel/studies/2_sem_mgr/RPE_lab/EX6/ros2_ws/install/simulation_package
+[0.077s] -- The C compiler identification is GNU 11.4.0
+[0.127s] -- The CXX compiler identification is GNU 11.4.0
+[0.134s] -- Detecting C compiler ABI info
+[0.180s] -- Detecting C compiler ABI info - done
+[0.184s] -- Check for working C compiler: /usr/bin/cc - skipped
+[0.184s] -- Detecting C compile features
+[0.185s] -- Detecting C compile features - done
+[0.187s] -- Detecting CXX compiler ABI info
+[0.237s] -- Detecting CXX compiler ABI info - done
+[0.242s] -- Check for working CXX compiler: /usr/bin/c++ - skipped
+[0.242s] -- Detecting CXX compile features
+[0.242s] -- Detecting CXX compile features - done
+[0.245s] -- Found ament_cmake: 1.3.10 (/opt/ros/humble/share/ament_cmake/cmake)
+[0.342s] -- Found Python3: /usr/bin/python3 (found version "3.10.12") found components: Interpreter 
+[0.404s] -- Found ament_lint_auto: 0.12.11 (/opt/ros/humble/share/ament_lint_auto/cmake)
+[0.456s] -- Added test 'lint_cmake' to check CMake code style
+[0.457s] -- Added test 'xmllint' to check XML markup files
+[0.458s] -- Configuring done
+[0.460s] -- Generating done
+[0.461s] -- Build files have been written to: /home/marcel/studies/2_sem_mgr/RPE_lab/EX6/ros2_ws/build/simulation_package
+[0.464s] Invoked command in '/home/marcel/studies/2_sem_mgr/RPE_lab/EX6/ros2_ws/build/simulation_package' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/marcel/studies/2_sem_mgr/RPE_lab/EX5/ros2_ws/install/rms_package:/home/marcel/studies/2_sem_mgr/RPE_lab/EX4/ros2_ws/install/signalPackage:/home/marcel/ros2_ws/install/my_robot_controller:/opt/ros/humble /usr/bin/cmake /home/marcel/studies/2_sem_mgr/RPE_lab/EX6/ros2_ws/src/simulation_package -DCMAKE_INSTALL_PREFIX=/home/marcel/studies/2_sem_mgr/RPE_lab/EX6/ros2_ws/install/simulation_package
+[0.465s] Invoking command in '/home/marcel/studies/2_sem_mgr/RPE_lab/EX6/ros2_ws/build/simulation_package': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/marcel/studies/2_sem_mgr/RPE_lab/EX5/ros2_ws/install/rms_package:/home/marcel/studies/2_sem_mgr/RPE_lab/EX4/ros2_ws/install/signalPackage:/home/marcel/ros2_ws/install/my_robot_controller:/opt/ros/humble /usr/bin/cmake --build /home/marcel/studies/2_sem_mgr/RPE_lab/EX6/ros2_ws/build/simulation_package -- -j16 -l16
+[0.489s] Invoked command in '/home/marcel/studies/2_sem_mgr/RPE_lab/EX6/ros2_ws/build/simulation_package' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/marcel/studies/2_sem_mgr/RPE_lab/EX5/ros2_ws/install/rms_package:/home/marcel/studies/2_sem_mgr/RPE_lab/EX4/ros2_ws/install/signalPackage:/home/marcel/ros2_ws/install/my_robot_controller:/opt/ros/humble /usr/bin/cmake --build /home/marcel/studies/2_sem_mgr/RPE_lab/EX6/ros2_ws/build/simulation_package -- -j16 -l16
+[0.509s] Invoking command in '/home/marcel/studies/2_sem_mgr/RPE_lab/EX6/ros2_ws/build/simulation_package': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/marcel/studies/2_sem_mgr/RPE_lab/EX5/ros2_ws/install/rms_package:/home/marcel/studies/2_sem_mgr/RPE_lab/EX4/ros2_ws/install/signalPackage:/home/marcel/ros2_ws/install/my_robot_controller:/opt/ros/humble /usr/bin/cmake --install /home/marcel/studies/2_sem_mgr/RPE_lab/EX6/ros2_ws/build/simulation_package
+[0.513s] -- Install configuration: ""
+[0.513s] -- Installing: /home/marcel/studies/2_sem_mgr/RPE_lab/EX6/ros2_ws/install/simulation_package/share/ament_index/resource_index/package_run_dependencies/simulation_package
+[0.514s] -- Installing: /home/marcel/studies/2_sem_mgr/RPE_lab/EX6/ros2_ws/install/simulation_package/share/ament_index/resource_index/parent_prefix_path/simulation_package
+[0.514s] -- Installing: /home/marcel/studies/2_sem_mgr/RPE_lab/EX6/ros2_ws/install/simulation_package/share/simulation_package/environment/ament_prefix_path.sh
+[0.514s] -- Installing: /home/marcel/studies/2_sem_mgr/RPE_lab/EX6/ros2_ws/install/simulation_package/share/simulation_package/environment/ament_prefix_path.dsv
+[0.514s] -- Installing: /home/marcel/studies/2_sem_mgr/RPE_lab/EX6/ros2_ws/install/simulation_package/share/simulation_package/environment/path.sh
+[0.514s] -- Installing: /home/marcel/studies/2_sem_mgr/RPE_lab/EX6/ros2_ws/install/simulation_package/share/simulation_package/environment/path.dsv
+[0.514s] -- Installing: /home/marcel/studies/2_sem_mgr/RPE_lab/EX6/ros2_ws/install/simulation_package/share/simulation_package/local_setup.bash
+[0.514s] -- Installing: /home/marcel/studies/2_sem_mgr/RPE_lab/EX6/ros2_ws/install/simulation_package/share/simulation_package/local_setup.sh
+[0.514s] -- Installing: /home/marcel/studies/2_sem_mgr/RPE_lab/EX6/ros2_ws/install/simulation_package/share/simulation_package/local_setup.zsh
+[0.515s] -- Installing: /home/marcel/studies/2_sem_mgr/RPE_lab/EX6/ros2_ws/install/simulation_package/share/simulation_package/local_setup.dsv
+[0.515s] -- Installing: /home/marcel/studies/2_sem_mgr/RPE_lab/EX6/ros2_ws/install/simulation_package/share/simulation_package/package.dsv
+[0.515s] -- Installing: /home/marcel/studies/2_sem_mgr/RPE_lab/EX6/ros2_ws/install/simulation_package/share/ament_index/resource_index/packages/simulation_package
+[0.515s] -- Installing: /home/marcel/studies/2_sem_mgr/RPE_lab/EX6/ros2_ws/install/simulation_package/share/simulation_package/cmake/simulation_packageConfig.cmake
+[0.515s] -- Installing: /home/marcel/studies/2_sem_mgr/RPE_lab/EX6/ros2_ws/install/simulation_package/share/simulation_package/cmake/simulation_packageConfig-version.cmake
+[0.515s] -- Installing: /home/marcel/studies/2_sem_mgr/RPE_lab/EX6/ros2_ws/install/simulation_package/share/simulation_package/package.xml
+[0.516s] Invoked command in '/home/marcel/studies/2_sem_mgr/RPE_lab/EX6/ros2_ws/build/simulation_package' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/marcel/studies/2_sem_mgr/RPE_lab/EX5/ros2_ws/install/rms_package:/home/marcel/studies/2_sem_mgr/RPE_lab/EX4/ros2_ws/install/signalPackage:/home/marcel/ros2_ws/install/my_robot_controller:/opt/ros/humble /usr/bin/cmake --install /home/marcel/studies/2_sem_mgr/RPE_lab/EX6/ros2_ws/build/simulation_package

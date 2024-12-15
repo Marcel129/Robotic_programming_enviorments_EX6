@@ -1,0 +1,15 @@
+/home/marcel/studies/2_sem_mgr/RPE_lab/EX6/ros2_ws/install/simulation_package/share/ament_index/resource_index/package_run_dependencies/simulation_package
+/home/marcel/studies/2_sem_mgr/RPE_lab/EX6/ros2_ws/install/simulation_package/share/ament_index/resource_index/parent_prefix_path/simulation_package
+/home/marcel/studies/2_sem_mgr/RPE_lab/EX6/ros2_ws/install/simulation_package/share/simulation_package/environment/ament_prefix_path.sh
+/home/marcel/studies/2_sem_mgr/RPE_lab/EX6/ros2_ws/install/simulation_package/share/simulation_package/environment/ament_prefix_path.dsv
+/home/marcel/studies/2_sem_mgr/RPE_lab/EX6/ros2_ws/install/simulation_package/share/simulation_package/environment/path.sh
+/home/marcel/studies/2_sem_mgr/RPE_lab/EX6/ros2_ws/install/simulation_package/share/simulation_package/environment/path.dsv
+/home/marcel/studies/2_sem_mgr/RPE_lab/EX6/ros2_ws/install/simulation_package/share/simulation_package/local_setup.bash
+/home/marcel/studies/2_sem_mgr/RPE_lab/EX6/ros2_ws/install/simulation_package/share/simulation_package/local_setup.sh
+/home/marcel/studies/2_sem_mgr/RPE_lab/EX6/ros2_ws/install/simulation_package/share/simulation_package/local_setup.zsh
+/home/marcel/studies/2_sem_mgr/RPE_lab/EX6/ros2_ws/install/simulation_package/share/simulation_package/local_setup.dsv
+/home/marcel/studies/2_sem_mgr/RPE_lab/EX6/ros2_ws/install/simulation_package/share/simulation_package/package.dsv
+/home/marcel/studies/2_sem_mgr/RPE_lab/EX6/ros2_ws/install/simulation_package/share/ament_index/resource_index/packages/simulation_package
+/home/marcel/studies/2_sem_mgr/RPE_lab/EX6/ros2_ws/install/simulation_package/share/simulation_package/cmake/simulation_packageConfig.cmake
+/home/marcel/studies/2_sem_mgr/RPE_lab/EX6/ros2_ws/install/simulation_package/share/simulation_package/cmake/simulation_packageConfig-version.cmake
+/home/marcel/studies/2_sem_mgr/RPE_lab/EX6/ros2_ws/install/simulation_package/share/simulation_package/package.xml
