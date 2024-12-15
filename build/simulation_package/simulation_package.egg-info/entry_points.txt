@@ -1,0 +1,4 @@
+[console_scripts]
+robot_controller = simulation_package.controller:main
+robot_simulator = simulation_package.mr_simulator:main
+
