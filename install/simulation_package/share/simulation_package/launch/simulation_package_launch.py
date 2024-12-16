@@ -4,7 +4,7 @@ from ament_index_python.packages import get_package_share_directory
 import os
 
 def generate_launch_description():
-    # src_dir = '/home/marcel/studies/2_sem_mgr/RPE_lab/EX6/ros2_ws/src/simulation_package/config'
+    src_dir = '/home/marcel/studies/2_sem_mgr/RPE_lab/EX6/ros2_ws/src/simulation_package/config'
     return LaunchDescription([
         Node(
             package='simulation_package',
@@ -12,7 +12,11 @@ def generate_launch_description():
         ),
         Node(
             package='simulation_package',
-            executable='robot_simulator'
+            executable='robot_simulator',
+            parameters=[os.path.join(
+                src_dir,
+                'simulator.yaml'
+            )]
         )
         
     ])

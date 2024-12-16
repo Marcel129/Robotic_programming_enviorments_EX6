@@ -8,6 +8,8 @@ setup.py
 ../../build/simulation_package/simulation_package.egg-info/requires.txt
 ../../build/simulation_package/simulation_package.egg-info/top_level.txt
 ../../build/simulation_package/simulation_package.egg-info/zip-safe
+config/controller.yaml
+config/simulator.yaml
 launch/simulation_package_launch.py
 resource/simulation_package
 simulation_package/__init__.py

@@ -1,0 +1,4 @@
+robot_simulator:
+  ros__parameters:
+    delta_coeff: 0.1
+    no_signal_timeout_s: 2.0
